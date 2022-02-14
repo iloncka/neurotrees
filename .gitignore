@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+experiments/DeepGBM-wandb/__pycache__/
+experiments/DeepGBM-wandb/wandb/
 .Python
 build/
 develop-eggs/
