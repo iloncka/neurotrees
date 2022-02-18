@@ -1,0 +1,2 @@
+model_checkpoint_path: "multireg_bdjinn_test_tree2.ckpt"
+all_model_checkpoint_paths: "multireg_bdjinn_test_tree2.ckpt"
