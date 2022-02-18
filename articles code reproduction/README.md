@@ -5,3 +5,4 @@ for Online Prediction Tasks." In Proceedings of the 25th ACM SIGKDD Internationa
 3. Hazimeh H. [et all]. The Tree Ensemble Layer: Differentiability meets Conditional Computation, 2020. arXiv:2002.07772
 4. K. D. Humbird, J. L. Peterson and R. G. Mcclarren, "Deep Neural Network Initialization With Decision Trees," 
 in IEEE Transactions on Neural Networks and Learning Systems, vol. 30, no. 5, pp. 1286-1295, May 2019.
+5. Sarkar T. XBNet : An Extremely Boosted Neural Network, 2021.// arXiv:2106.05239  
