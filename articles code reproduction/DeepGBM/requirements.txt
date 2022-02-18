@@ -1,0 +1,8 @@
+LightGBM==2.2.1
+torch==1.2.0
+torchvision==0.4.0
+tensorboardx
+scikit-learn==0.19.2
+category-encoders
+tqdm
+ 
